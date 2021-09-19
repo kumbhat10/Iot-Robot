@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Widget.Theme.IotRobot.ActionBar.Fullscreen" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="Widget.Theme.IotRobot.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Iot-Robot</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="warming_up">Warming Up</string>
+    <string name="wait">Please wait…</string>
+    <string name="serverConnect">Contacting server…</string>
+    <string name="connected">All set</string>
+    <string name="startClick">Click to start</string>
+    <string name="wakingrobot">Waking Robot…</string>
+    <string name="start">Start</string>
+    <string name="write">Reset ESP</string>
+    <string name="notification_channel_id">IoTChannel</string>
+
+</resources>

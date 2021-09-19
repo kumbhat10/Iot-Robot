@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kumbh/AndroidStudioProjects/IotRobot/app/src/main/res/drawable-v24/progress_splash.xml" value="0.1555" />
+        <entry key="..\:/Users/kumbh/AndroidStudioProjects/IotRobot/app/src/main/res/drawable/bluesquarebutton.xml" value="0.1725" />
+        <entry key="..\:/Users/kumbh/AndroidStudioProjects/IotRobot/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/kumbh/AndroidStudioProjects/IotRobot/app/src/main/res/drawable/indeter_progress.xml" value="0.1865" />
+        <entry key="..\:/Users/kumbh/AndroidStudioProjects/IotRobot/app/src/main/res/drawable/remote.xml" value="0.15" />
+        <entry key="..\:/Users/kumbh/AndroidStudioProjects/IotRobot/app/src/main/res/drawable/roboticon.xml" value="0.15" />
+        <entry key="..\:/Users/kumbh/AndroidStudioProjects/IotRobot/app/src/main/res/drawable/seek_style.xml" value="0.1315" />
+        <entry key="..\:/Users/kumbh/AndroidStudioProjects/IotRobot/app/src/main/res/layout/activity_fullscreen.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/kumbh/AndroidStudioProjects/IotRobot/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/kumbh/AndroidStudioProjects/IotRobot/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/kumbh/AndroidStudioProjects/IotRobot/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
